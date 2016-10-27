@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs$
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.matthiassaihttam.hotlistsnapshots</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/hotlist-snapshots/bash-to-run.sh</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+</dict>
+</plist>
