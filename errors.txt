@@ -1,0 +1,30 @@
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 20: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 21: /usr/local/git: is a directory
+/hotlist-snapshots/bash-to-run.sh: line 22: /usr/local/git: is a directory
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
