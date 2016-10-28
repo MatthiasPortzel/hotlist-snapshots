@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /hotlist-snapshots
+
 # Create a date variable. Remove a bunch to make it look nice.
 dayVar=$(date -u)
 dayVar=${dayVar:4} #Cut off the weekday
@@ -10,8 +12,8 @@ fileName="${dayVar}.js"
 HLpath="https://www.khanacademy.org/api/internal/scratchpads/top?sort=3&limit=50&topic_id=xffde7c31&callback=snapshot"
 
 #Copy the hotlist data and put it into a .js file named for the timestamp
-#curl -o $fileName $HLpath
-echo $dayVar > $fileName
+curl -o $fileName $HLpath
+#echo $dayVar > $fileName
 
 #move the file to the snapshots folder
 mv $fileName snapshots
