@@ -4,14 +4,19 @@
 dayVar=$(date -u)
 dayVar=${dayVar:4} #Cut off the weekday
 dayVar=${dayVar// /_} #Replace spaces with underscores, since it's going to be a filename
+fileName="${dayVar}.js"
 
 #Create a variable for the hotlist's API path
 HLpath="https://www.khanacademy.org/api/internal/scratchpads/top?sort=3&limit=50&topic_id=xffde7c31&callback=snapshot"
 
-fileName="${dayVar}.js"
+#Copy the hotlist data and put it into a .js file named for the timestamp
+#curl -o $fileName $HLpath
+echo $dayVar > $fileName
 
-curl -o $fileName $HLpath #dowload the data into a .js file named for the timestamp
-
+#move the file to the snapshots folder
 mv $fileName snapshots
 
-#date >> /hotlist-snapshots/snapshots/test.txt
+#Git stuff
+/usr/local/git/bin/git add "snapshots/${fileName}"
+/usr/local/git/bin/git commit "snapshots/${fileName}" -m "Hotlist data for $dayVar"
+/usr/local/git/bin/git push

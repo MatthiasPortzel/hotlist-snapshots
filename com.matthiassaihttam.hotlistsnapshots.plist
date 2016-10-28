@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs$
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>Label</key>
     <string>com.matthiassaihttam.hotlistsnapshots</string>
+    
     <key>ProgramArguments</key>
     <array>
         <string>/hotlist-snapshots/bash-to-run.sh</string>
     </array>
+
+    <key>Nice</key>
+    <integer>1</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+    
+    <key>StandardErrorPath</key>
+    <string>/hotlist-snapshots/errors.txt</string>
+
     <key>StartInterval</key>
-    <integer>3600</integer>
+    <integer>30</integer>
 </dict>
 </plist>
