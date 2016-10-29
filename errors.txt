@@ -1,171 +1,1 @@
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   bc2ada4..acbfc4b  master -> master
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   acbfc4b..3fdbc3c  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  2 27415    2   671    0     0    268      0  0:01:42  0:00:02  0:01:40   348100 27415  100 27415    0     0  10689      0  0:00:02  0:00:02 --:--:-- 13741
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   3fdbc3c..f2a5740  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0100 27415  100 27415    0     0   3592      0  0:00:07  0:00:07 --:--:--  6350
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   f2a5740..975dc4d  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  18539      0  0:00:01  0:00:01 --:--:-- 21740
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   975dc4d..a96a1ed  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0100 27415  100 27415    0     0   6468      0  0:00:04  0:00:04 --:--:-- 24090
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  17337      0  0:00:01  0:00:01 --:--:-- 26564100 27415  100 27415    0     0  17333      0  0:00:01  0:00:01 --:--:-- 26539
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  21273      0  0:00:01  0:00:01 --:--:-- 24653
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0100 27415  100 27415    0     0   8600      0  0:00:03  0:00:03 --:--:--  9401
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  2 27415    2   671    0     0     52      0  0:08:47  0:00:12  0:08:35  1546100 27415  100 27415    0     0   2128      0  0:00:12  0:00:12 --:--:-- 54072
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0100 27415  100 27415    0     0   6077      0  0:00:04  0:00:04 --:--:-- 28557
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 26 27415   26  7192    0     0   4520      0  0:00:06  0:00:01  0:00:05  6849100 27415  100 27415    0     0  16995      0  0:00:01  0:00:01 --:--:-- 25573
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  20517      0  0:00:01  0:00:01 --:--:-- 23777
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 27415  100 27415    0     0   9294      0  0:00:02  0:00:02 --:--:-- 20025
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  15652      0  0:00:01  0:00:01 --:--:-- 59468
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 27415  100 27415    0     0  12504      0  0:00:02  0:00:02 --:--:-- 14300
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 27415  100 27415    0     0   9544      0  0:00:02  0:00:02 --:--:-- 22434
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 27415  100 27415    0     0  22864      0  0:00:01  0:00:01 --:--:-- 30461
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
- ! [rejected]        master -> master (non-fast-forward)
-error: failed to push some refs to 'https://github.com/MatthiasSaihttam/hotlist-snapshots.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 27415  100 27415    0     0  15996      0  0:00:01  0:00:01 --:--:-- 49845
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   8a80aae..53761aa  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 31 27415   31  8596    0     0   5392      0  0:00:05  0:00:01  0:00:04  8321100 27415  100 27415    0     0  16765      0  0:00:01  0:00:01 --:--:-- 25526
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   53761aa..e5dfb4c  master -> master
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 27415    2   667    0     0    611      0  0:00:44  0:00:01  0:00:43   760100 27415  100 27415    0     0  23512      0  0:00:01  0:00:01 --:--:-- 28767
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 36 27415   36  9996    0     0   8712      0  0:00:03  0:00:01  0:00:02 18579100 27415  100 27415    0     0  23743      0  0:00:01  0:00:01 --:--:-- 50302
-To https://github.com/MatthiasSaihttam/hotlist-snapshots.git
-   e5dfb4c..e5b0308  master -> master
+
