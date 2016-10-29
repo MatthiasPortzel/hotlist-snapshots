@@ -32,4 +32,4 @@ cd ..
 /usr/local/git/bin/git add "snapshots/${fileName}"
 /usr/local/git/bin/git add "allSnapshots.js"
 /usr/local/git/bin/git commit -m "Hotlist data for $dayVar"
-#/usr/local/git/bin/git push
+/usr/local/git/bin/git push
