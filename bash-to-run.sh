@@ -18,7 +18,18 @@ curl -o $fileName $HLpath
 #move the file to the snapshots folder
 mv $fileName snapshots
 
+#Create a list of all the snapshots
+cd snapshots
+allSnapshots=$(ls)
+allSnapshots=${allSnapshots//$'\n'/\",\"} #Replace line breaks with ","
+allSnapshots="/**/allSnapshots(\"${allSnapshots}\")" #Pass all the snapshots to a function called allSnapshots
+echo $allSnapshots > allSnapshots.js #Put it into a .js file for easy access
+
+mv allSnapshots.js ..
+cd ..
+
 #Git stuff
 /usr/local/git/bin/git add "snapshots/${fileName}"
-/usr/local/git/bin/git commit "snapshots/${fileName}" -m "Hotlist data for $dayVar"
-/usr/local/git/bin/git push
+/usr/local/git/bin/git add "allSnapshots.js"
+/usr/local/git/bin/git commit -m "Hotlist data for $dayVar"
+#/usr/local/git/bin/git push
