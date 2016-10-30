@@ -12,7 +12,7 @@ fileName="${dayVar}.js"
 HLpath="https://www.khanacademy.org/api/internal/scratchpads/top?sort=3&limit=50&topic_id=xffde7c31&callback=snapshot"
 
 #Copy the hotlist data and put it into a .js file named for the timestamp
-curl -o $fileName $HLpath
+curl -so $fileName $HLpath
 #echo $dayVar > $fileName
 
 #move the file to the snapshots folder
@@ -21,9 +21,9 @@ mv $fileName snapshots
 #Create a list of all the snapshots
 cd snapshots
 allSnapshots=$(ls)
-allSnapshots=${allSnapshots//$'\n'/\",\"} #Replace line breaks with ","
+allSnapshots=${allSnapshots//$'\n'/$'\",\n\"'} #Replace line breaks with ",\n"
 allSnapshots="/**/allSnapshots(\"${allSnapshots}\")" #Pass all the snapshots to a function called allSnapshots
-echo $allSnapshots > allSnapshots.js #Put it into a .js file for easy access
+echo "$allSnapshots" > allSnapshots.js #Put it into a .js file for easy access
 
 mv allSnapshots.js ..
 cd ..
@@ -32,4 +32,4 @@ cd ..
 /usr/local/git/bin/git add "snapshots/${fileName}"
 /usr/local/git/bin/git add "allSnapshots.js"
 /usr/local/git/bin/git commit -m "Hotlist data for $dayVar"
-/usr/local/git/bin/git push
+/usr/local/git/bin/git push -q
