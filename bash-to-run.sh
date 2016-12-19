@@ -26,10 +26,22 @@ allSnapshots="/**/allSnapshots(\"${allSnapshots}\")" #Pass all the snapshots to 
 echo "$allSnapshots" > allSnapshots.js #Put it into a .js file for easy access
 
 mv allSnapshots.js ..
+
+contents=$(<$fileName)
 cd ..
+allSnapshotData=$(<"allSnapshotData.js")
+contents=${contents:12}
+
+l=${#allSnapshotData}
+allSnapshotData=${allSnapshotData::l-3}
+allSnapshotData="$allSnapshotData   \"$dayVar\" : $contents,"
+
+echo "$allSnapshotData
+});" > allSnapshotData.js
 
 #Git stuff
 /usr/local/git/bin/git add "snapshots/${fileName}"
 /usr/local/git/bin/git add "allSnapshots.js"
 /usr/local/git/bin/git commit -m "Hotlist data for $dayVar"
 /usr/local/git/bin/git push -q
+
