@@ -13,6 +13,9 @@
     <key>Nice</key>
     <integer>1</integer>
 
+    <key>UserName</key>
+    <string>mserver</string>
+
     <key>RunAtLoad</key>
     <true/>
     
