@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Exit immediately on error
+set -e
+
 cd /hotlist-snapshots
 
 # Create a date variable. Remove a bunch to make it look nice.
